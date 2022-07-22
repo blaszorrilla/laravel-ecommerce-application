@@ -1,5 +1,5 @@
 
-## Laravel tutorial from larashout.com
+
 
 - Admin dashboard access: http://localhost:8000/admin/login
 1. E-mail: admin@admin.com
